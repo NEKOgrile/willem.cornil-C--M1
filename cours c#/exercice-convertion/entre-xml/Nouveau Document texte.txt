@@ -1,0 +1,1 @@
+C:\Users\thebe\source\repos\cours c#\exercice-convertion\entre-xml\minecraft_blocks.xml

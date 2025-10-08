@@ -1,0 +1,20 @@
+[
+  {
+    "id": "minecraft:dirt",
+    "name": "dirt",
+    "displayName": "Dirt",
+    "description": "Soft soil used for farming and building."
+  },
+  {
+    "id": "minecraft:grass_block",
+    "name": "grass_block",
+    "displayName": "Grass Block",
+    "description": "A dirt block with grass on top."
+  },
+  {
+    "id": "minecraft:stone",
+    "name": "stone",
+    "displayName": "Stone",
+    "description": "A common building material."
+  }
+]

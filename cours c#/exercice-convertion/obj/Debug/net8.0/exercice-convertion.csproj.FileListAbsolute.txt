@@ -1,0 +1,14 @@
+C:\Users\thebe\source\repos\cours c#\exercice-convertion\bin\Debug\net8.0\exercice-convertion.exe
+C:\Users\thebe\source\repos\cours c#\exercice-convertion\bin\Debug\net8.0\exercice-convertion.deps.json
+C:\Users\thebe\source\repos\cours c#\exercice-convertion\bin\Debug\net8.0\exercice-convertion.runtimeconfig.json
+C:\Users\thebe\source\repos\cours c#\exercice-convertion\bin\Debug\net8.0\exercice-convertion.dll
+C:\Users\thebe\source\repos\cours c#\exercice-convertion\bin\Debug\net8.0\exercice-convertion.pdb
+C:\Users\thebe\source\repos\cours c#\exercice-convertion\obj\Debug\net8.0\exercice-convertion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thebe\source\repos\cours c#\exercice-convertion\obj\Debug\net8.0\exercice-convertion.AssemblyInfoInputs.cache
+C:\Users\thebe\source\repos\cours c#\exercice-convertion\obj\Debug\net8.0\exercice-convertion.AssemblyInfo.cs
+C:\Users\thebe\source\repos\cours c#\exercice-convertion\obj\Debug\net8.0\exercice-convertion.csproj.CoreCompileInputs.cache
+C:\Users\thebe\source\repos\cours c#\exercice-convertion\obj\Debug\net8.0\exercice-convertion.dll
+C:\Users\thebe\source\repos\cours c#\exercice-convertion\obj\Debug\net8.0\refint\exercice-convertion.dll
+C:\Users\thebe\source\repos\cours c#\exercice-convertion\obj\Debug\net8.0\exercice-convertion.pdb
+C:\Users\thebe\source\repos\cours c#\exercice-convertion\obj\Debug\net8.0\exercice-convertion.genruntimeconfig.cache
+C:\Users\thebe\source\repos\cours c#\exercice-convertion\obj\Debug\net8.0\ref\exercice-convertion.dll

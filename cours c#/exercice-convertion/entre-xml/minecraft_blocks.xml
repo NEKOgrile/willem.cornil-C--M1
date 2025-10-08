@@ -1,0 +1,85 @@
+<?xml version="1.0" ?>
+<minecraftBlocks generatedBy="assistant-generate" count="200">
+  <block index="1">
+    <id>minecraft:stone</id>
+    <name>stone</name>
+    <displayName>Stone</displayName>
+    <description>A common building material.</description>
+    <properties>
+      <hardness>1.3</hardness>
+      <blastResistance>1185</blastResistance>
+      <luminous>15</luminous>
+      <transparent>false</transparent>
+      <stackSize>1</stackSize>
+      <material>organic</material>
+    </properties>
+    <tags>
+      <tag>mineable_with_axe</tag>
+      <tag>mineable_with_shovel</tag>
+      <tag>flammable</tag>
+    </tags>
+    <drops/>
+    <misc>
+      <spawnLayer>End</spawnLayer>
+      <creativeTab>Building Blocks</creativeTab>
+      <notes>Auto-generated entry 1.</notes>
+    </misc>
+  </block>
+  <block index="2">
+    <id>minecraft:dirt</id>
+    <name>dirt</name>
+    <displayName>Dirt</displayName>
+    <description>Soft soil used for farming and building.</description>
+    <properties>
+      <hardness>9.22</hardness>
+      <blastResistance>648</blastResistance>
+      <luminous>10</luminous>
+      <transparent>false</transparent>
+      <stackSize>64</stackSize>
+      <material>unknown</material>
+    </properties>
+    <tags>
+      <tag>requires_tool</tag>
+      <tag>flammable</tag>
+    </tags>
+    <drops>
+      <drop chance="0.84">
+        <item>minecraft:stick</item>
+        <quantity>2</quantity>
+      </drop>
+    </drops>
+    <misc>
+      <spawnLayer>Overworld</spawnLayer>
+      <creativeTab>Materials</creativeTab>
+      <notes>Auto-generated entry 2.</notes>
+    </misc>
+  </block>
+  <block index="3">
+    <id>minecraft:grass_block</id>
+    <name>grass_block</name>
+    <displayName>Grass Block</displayName>
+    <description>A dirt block with grass on top.</description>
+    <properties>
+      <hardness>5.18</hardness>
+      <blastResistance>330</blastResistance>
+      <luminous>0</luminous>
+      <transparent>false</transparent>
+      <stackSize>16</stackSize>
+      <material>plant</material>
+    </properties>
+    <tags>
+      <tag>decorative</tag>
+    </tags>
+    <drops>
+      <drop chance="0.92">
+        <item>minecraft:dirt</item>
+        <quantity>1</quantity>
+      </drop>
+    </drops>
+    <misc>
+      <spawnLayer>Overworld</spawnLayer>
+      <creativeTab>Building Blocks</creativeTab>
+      <notes>Auto-generated entry 3.</notes>
+    </misc>
+  </block>
+</minecraftBlocks>
