@@ -12,3 +12,4 @@ C:\Users\thebe\source\repos\cours c#\exercice-convertion\obj\Debug\net8.0\refint
 C:\Users\thebe\source\repos\cours c#\exercice-convertion\obj\Debug\net8.0\exercice-convertion.pdb
 C:\Users\thebe\source\repos\cours c#\exercice-convertion\obj\Debug\net8.0\exercice-convertion.genruntimeconfig.cache
 C:\Users\thebe\source\repos\cours c#\exercice-convertion\obj\Debug\net8.0\ref\exercice-convertion.dll
+C:\Users\thebe\source\repos\cours c#\exercice-convertion\obj\Debug\net8.0\exercice-convertion.sourcelink.json

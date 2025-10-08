@@ -19,3 +19,4 @@ C:\Users\thebe\source\repos\LinqExercicePresentationNet8\obj\Debug\net8.0\refint
 C:\Users\thebe\source\repos\LinqExercicePresentationNet8\obj\Debug\net8.0\LinqExercicePresentationNet8.pdb
 C:\Users\thebe\source\repos\LinqExercicePresentationNet8\obj\Debug\net8.0\LinqExercicePresentationNet8.genruntimeconfig.cache
 C:\Users\thebe\source\repos\LinqExercicePresentationNet8\obj\Debug\net8.0\ref\LinqExercicePresentationNet8.dll
+C:\Users\thebe\source\repos\LinqExercicePresentationNet8\obj\Debug\net8.0\LinqExercicePresentationNet8.sourcelink.json

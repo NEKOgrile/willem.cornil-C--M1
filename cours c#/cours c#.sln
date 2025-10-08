@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqExercicePresentationNet
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exercice-convertion", "exercice-convertion\exercice-convertion.csproj", "{B4BE465E-23D4-4D89-9000-51328B601DAD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "performance", "performance\performance.csproj", "{94AA3E52-3978-4B4E-ACDB-ACF632B532D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "optimisation-images", "optimisation-images\optimisation-images.csproj", "{E5A9A691-FAE6-489D-B5C7-04B3ADCCB052}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -35,6 +39,14 @@ Global
 		{B4BE465E-23D4-4D89-9000-51328B601DAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B4BE465E-23D4-4D89-9000-51328B601DAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B4BE465E-23D4-4D89-9000-51328B601DAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94AA3E52-3978-4B4E-ACDB-ACF632B532D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94AA3E52-3978-4B4E-ACDB-ACF632B532D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94AA3E52-3978-4B4E-ACDB-ACF632B532D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94AA3E52-3978-4B4E-ACDB-ACF632B532D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5A9A691-FAE6-489D-B5C7-04B3ADCCB052}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5A9A691-FAE6-489D-B5C7-04B3ADCCB052}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5A9A691-FAE6-489D-B5C7-04B3ADCCB052}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5A9A691-FAE6-489D-B5C7-04B3ADCCB052}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
